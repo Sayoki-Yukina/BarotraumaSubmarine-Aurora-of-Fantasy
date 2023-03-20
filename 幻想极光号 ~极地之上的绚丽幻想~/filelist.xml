@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="幻想极光号 ~极地之上的绚丽幻想~" modversion="1.20.2" corepackage="False" steamworkshopid="2911909825" gameversion="0.20.16.1">
-  <Submarine file="%ModDir%/幻想极光号 ~极地之上的绚丽幻想~.sub" />
+<contentpackage name="幻想极光号 ~极地之上的绚丽幻想~" modversion="1.20.10" corepackage="False" steamworkshopid="2911909825" gameversion="1.0.8.0">
   <Submarine file="%ModDir%/幻想极光号 - 导弹01.sub" />
+  <Submarine file="%ModDir%/幻想极光号 ~极地之上的绚丽幻想~.sub" />
 </contentpackage>
